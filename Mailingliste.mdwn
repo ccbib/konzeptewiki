@@ -1,0 +1,11 @@
+Neben diesem Wiki zum Erarbeiten und Sammeln von Texten gibt es auch
+noch eine Mailingliste für Diskussionen, Ankündigungen, etc.
+
+Die Liste ist öffentlich, das heißt alle Menschen können sich dort
+anmelden und sobald sie angemeldet sind auch selber Mails schreiben.
+Alles Mails auf der Liste werden öffentlich (also auch ohne Anmeldung
+zugänglich) archiviert.
+
+Link zum Anmelden: <http://list.danyx.com/listinfo/konzepte>
+
+Link zum Archiv: <http://list.danyx.com/pipermail/konzepte/>

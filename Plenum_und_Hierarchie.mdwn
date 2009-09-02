@@ -1,0 +1,103 @@
+#Plenum und Hierarchie
+
+Ein paar Gedanken darüber, was bei einem Plenum schlecht sein kann und
+warum daraus informelle Hierarchien entstehen.
+
+Klar, dass bei jeder Gruppe ein Plenum ein bisschen anders abläuft
+und nicht alles, was ich hier schreibe, für alle Gruppen gilt.
+Jede Gruppe hat ihre eigene Kultur, aber manche Strukturen sind
+trotzdem oft sehr ähnlich. Typischerweise läuft der Entscheidungsprozess
+ungefähr so ab:
+
+* Das Plenum findet zu fixen Terminen statt, unabhängig davon welche
+  oder wieviele Themen es zu besprechen gibt.
+* Als erstes werden die zu besprechenden Punkte gesammelt. Eine im
+  Voraus erstellte und ausgeschickte Tagesordnung gibt es *nicht*.
+* Leichte bzw. unstrittige Punkte werden zuerst behandelt.
+* Das Vertagen von Entscheidungen ist nicht üblich.
+
+Daraus ergibt sich in der Praxis mehr oder weniger zwangsläufig eine
+Reihe von Konsequenzen:
+
+* Mangels im Voraus angekündigter Tagesordnung werden Entscheidungen
+  nicht von jenen diskutiert, die davon betroffen sind, sondern von
+  einer zufälligen Gruppe die an dem Termin gerade Zeit hat.
+* Die meisten Plenumsteilnehmer hatten keine Gelegenheit sich mit
+  einem gegebenen Thema in Ruhe auseinanderzusetzen und sich auf
+  die Diskussion vorzubereiten bzw. sich eine *unabhängige* Meinung
+  zu bilden.
+* Die Gruppe, die ein Thema beim Plenum einbringt, hat einen großen
+  Denkvorsprung gegenüber allen anderen.
+* Eigentlich unstrittige Punkte werden eher zu ausführlich
+  behandelt und die meisten Leute langweilen sich.
+* Ans Eingemachte geht es erst, wenn die Leute bereits müde sind und
+  außerdem schon ein gewisser Zeitdruck vorhanden ist. Das führt leicht
+  dazu, dass zu schnell unausgereifte Kompromisse beschlossen werden oder
+  dass nur mehr die jeweiligen Standpunkte wiederholt werden ohne noch
+  miteinander zu diskutieren.
+
+
+## Entscheidungen brauchen Zeit
+
+Der traditionelle Weg in komplexen Fragen eine Entscheidung zu finden
+ist:
+
+* Irgendjemand bereitet ein Paper dazu vor
+* Die betroffenen Leute studieren das Paper
+* Die Leute machen ein Meeting, wo darüber diskutiert wird
+* Erst dann wird eine Entscheidung getroffen.
+
+Heute funktioniert das wohl oft anders: Irgendein Projektleiter
+kommt unvorbereitet in ein Meeting, bekommt eine PowerPoint-Präsentation
+an den Kopf geknallt und soll dann innerhalb weniger Minuten eine
+Entscheidung treffen.
+
+In einem basisdemokratischen Projekt sind alle in der Situation des
+Projektleiters von oben, aber das macht die Sache auch nicht wirklich
+viel besser...
+
+
+## Hierarchien
+
+Flache Hierarchien haben, rein praktisch gesehen, den Vorteil, dass
+mehr Menschen ihre Kritik an einem Vorschlag einbringen können und
+dadurch die Wahrscheinlichkeit von schweren Fehlern verringert wird.
+- Also einfach gesagt: Flache Hierarchien führen in der Regel zu
+besseren Entscheidungen.
+
+Im Gegensatz dazu haben hohe Hierarchien den Vorteil, dass schneller
+Entscheidungen getroffen werden.
+
+Der bemerkenswerte Punkt ist, dass auf einem Plenum Entscheidungen
+extrem schnell (Stunden statt Wochen) getroffen werden. - Was heißt
+das? Gilt der naheliegende Umkehrschluss?
+
+... nicht unbedingt - übereilte Entscheidungen können in jedem Umfeld
+getroffen werden. Aber eines ist klar: Die Zeit, die auf einem
+Plenum zur Auseinandersetzung mit einem Problem zur Verfügung steht
+ist zu kurz. Die logische Konsequenz ist, dass Leute, die ein
+Thema einbringen wollen, schon im Vorfeld in einer kleineren Gruppe
+darüber diskutieren und diese Gruppe dann entsprechend vorbereitet
+zum Plenum geht.
+
+Ich denke dieser Vorbereitungs- und Wissensunterschied ist es, der
+eine ganz massive informelle Hierarchie aufbaut. Umso schlimmer, wenn
+in der oben genannten "kleinen Gruppe" jedes Mal ungefähr die selben
+Leute sind - z.B. weil sie bestimmte Koordinationsaufgaben übernommen
+haben.
+
+Der Rest wird mit den vorbereiteten Argumenten überrollt.
+
+
+## Zusammenfassung
+
+Die übliche Plenumskultur macht es kleinen Gruppen sehr leicht
+ihre eigene Agenda (unabsichtlich oder auch absichtlich) durchzuboxen
+und dabei den Schein einer Konsensentscheidung zu wahren, weil der
+- unvorbereitete - Rest gar nicht die Zeit hat, was anderes zu tun
+als alles abnicken oder durchwinken.
+
+----
+Feedback an harald@lefant.net oder an die [[Mailingliste]] oder
+einfach hier im Wiki als Kommentar - wobei ich letzteres vielleicht
+nicht sofort mitbekomme.

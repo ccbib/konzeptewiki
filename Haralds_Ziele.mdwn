@@ -1,0 +1,82 @@
+#Warum ein größeres Projekt - Haralds Ziele
+
+
+## Erforschung alternativer (hierarchiefreier) Organisationsformen
+
+Ab einer gewissen Größe werden die strukturellen Defizite bei einem
+Projekt sichtbar. (Z.B. indem sie das weitere Wachstum hemmen oder
+Hierarchien entstehen lassen.) Es sollen neue Methoden, mit diesen
+Problemen umzugehen, erdacht und ausprobiert werden.
+
+
+## Erforschung dezentraler Technologien
+
+Technik ist ständig dabei unsere Gesellschaft zu verändern. Gleichzeitig
+ist die uns zur Verfügung stehende Technik aber auch Produkt unserer
+Gesellschaft und spiegelt daher deren Strukturen wieder: Hierarchien,
+Zentralismus und das kapitalistische Wirtschaftssystem haben dazu
+geführt, dass sehr selektiv manche Technologien entwickelt wurden und
+andere nicht. Diese einseitige Technik wiederum festigt die
+gesellschaftlichen Strukturen.
+
+Dieser selbsterhaltende Kreislauf soll durchbrochen werden, indem gezielt
+dezentrale und nachhaltige Technologien entwickelt werden, die zu den
+Strukturen, die wir uns wünschen, passen. Primitivismus als Lösungsvorschlag
+ist naiv. Wir brauchen nicht keine Technik, sondern eine andere Technik!
+
+
+## Integration neuer (szenefremder) Leute in kritische Projekte
+
+Die links-alternative Szene ist auf eine Art sehr elitär und selbst
+für kritische und aufgeschlossene Menschen schnell abschreckend, wenn
+sie ein eher
+bürgerliches Umfeld gewohnt sind. Ich glaube schon, dass das auch
+anders gemacht werden könnte ohne die Inhalte zu verwässern.
+
+Insbesondere würde ich gerne eine engere Verbindung zwischen
+Hackerszene und Anarchismus erreichen.
+
+
+## Mehr Autonomie für uns selbst
+
+Die Welt verändern (siehe oben) ist schön und gut, aber das ganze
+funktioniert umso besser, wenn wir auch selber was davon haben; wenn
+unsere eigene Abhängigkeit von Lohnarbeit, Förderungen, Sozialleistungen
+etc. dadurch reduziert wird.
+
+
+## Aufbau von (selbstverwalteter) Infrastruktur
+
+Nicht ganz klar, ob das jetzt Ziel ist oder eigentlich eher Mittel um
+die anderen Ziele zu erreichen. Irgendwie beides und gehört zu
+einer nachhaltigen Entwicklung wohl einfach dazu.
+
+Infrastruktur muss ja nicht immer gleich ein eigenes Haus sein. Man
+kann auch in kleinen Schritten einen weiten Weg gehen, wenn man sie
+schnell genug macht. Wenn dann irgendwann auch größere Sachen möglich
+sind, wär' das natürlich toll...
+
+
+## Erfolgserlebnisse
+
+Die linke Szene scheint mir in einem großen Ausmaß desorientiert und
+frustriert, weil es keine nennenswerten Erfolge gibt und weil auch
+nicht klar ist, wo angesetzt werden kann, um eine Veränderung zu
+erreichen. Im Vergleich kann ich aus meinem Kontext als Hacker an
+viele Erfolgserlebnisse sowohl auf einer persönlichen als auch auf
+einer globalen Ebene erinnern. Diese Art von Erfolgserlebnissen will
+ich auch Menschen möglich machen, die nicht programmieren wollen ...
+
+
+## Überwindung der Trennung in Produzenten und Konsumenten
+
+Im DIY Gedanken steckt das ja eigentlich eh schon drinnen, aber um
+es noch einmal deutlich zu machen: Im Grunde kann jeder Benutzer einen
+Beitrag zur Entwicklung eines Produkts leisten, indem konstruktive
+Kritik, Feedback, neue Ideen, etc. eingebracht werden. Durch diese
+Form der Zusammenarbeit findet gleichzeitig ein Wissenstransfer in
+beide Richtungen statt.
+
+----
+Feedback an harald@lefant.net oder einfach hier im Wiki einen
+Kommentar schreiben ...
