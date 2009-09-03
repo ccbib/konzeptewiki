@@ -2,7 +2,7 @@ This is the SandBox, a page anyone can edit to learn how to use the wiki.
 
 ----
 
-Here's a paragraph. foo. bar.
+Here's a paragraph. foo. bar. Some test.
 
 Here's another one with *emphasised* text.
 
