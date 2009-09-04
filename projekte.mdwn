@@ -1,12 +1,15 @@
 # name / gestartet von / vorauss.ende / mithilfe od. ressourcen benötigt
-
+***
 tandem bauen / [[jochen]] / in den nächsten wochen / ein kettenglied rutscht beim fahren scheinbar an der hinteren pedalkurbel immer ab, suche leute die wissen was zu tun ist
-
+***
 wachsflecken rausbekommen / [[jochen]] / in den nächsten wochen / ein t-shirt hat wachsflecken geht mit bügeleisen und löschpapier raus, wer hat ein löschpapier? will mir keins kaufen müssen
-
+***
 kompostklo bauen / [[jochen]] / dieses jahr noch wenn geht / suche einen grossen dichten plastik od. metallbehälter ab der grösse eines hohen standkühlschranks(<-würd auch gehn), hat wer was? weiss wer was?
-
+***
 waschmaschine auf 12v umbauen / [[jochen]] / dieses jahr noch wenn geht / suche eine noch funktionierende waschmaschine, 12v gebläsemotor ersteigere ich bei ebay
 
-* Warum 12 V? Die meisten Solarpanele haben soweit ich weiß 17, 20 oder 60 V ...
-* Wie willst du das mit dem Aufheizen der Waschmaschine machen? Das braucht ur viel Strom! Es gibt auch Waschmaschinen mit eigenem Warmwasserzulauf, aber das sind meist eher große Geräte ...
+Harald: Warum 12 V? Die meisten Solarpanele haben soweit ich weiß 17, 20 oder 60 V ...
+Jochen: hab eine solaranlage gefunden die 12v rausgibt
+Harald: Wie willst du das mit dem Aufheizen der Waschmaschine machen? Das braucht ur viel Strom! Es gibt auch Waschmaschinen mit eigenem Warmwasserzulauf, aber das sind meist eher große Geräte ...
+Jochen: das wasser könnte schon aufgeheizter(winter:holzofen,sommer:solarofen) hinten in einem behälter eingefüllt werden und dann zufliessen
+***
