@@ -8,8 +8,9 @@ kompostklo bauen / [[jochen]] / dieses jahr noch wenn geht / suche einen grossen
 ***
 waschmaschine auf 12v umbauen / [[jochen]] / dieses jahr noch wenn geht / suche eine noch funktionierende waschmaschine, 12v gebläsemotor ersteigere ich bei ebay
 
-Harald: Warum 12 V? Die meisten Solarpanele haben soweit ich weiß 17, 20 oder 60 V ...
-Jochen: hab eine solaranlage gefunden die 12v rausgibt
-Harald: Wie willst du das mit dem Aufheizen der Waschmaschine machen? Das braucht ur viel Strom! Es gibt auch Waschmaschinen mit eigenem Warmwasserzulauf, aber das sind meist eher große Geräte ...
-Jochen: das wasser könnte schon aufgeheizter(winter:holzofen,sommer:solarofen) hinten in einem behälter eingefüllt werden und dann zufliessen
+* Harald: Warum 12 V? Die meisten Solarpanele haben soweit ich weiß 17, 20 oder 60 V ...
+* Jochen: hab eine solaranlage gefunden die 12v rausgibt
+* -
+* Harald: Wie willst du das mit dem Aufheizen der Waschmaschine machen? Das braucht ur viel Strom! Es gibt auch Waschmaschinen mit eigenem Warmwasserzulauf, aber das sind meist eher große Geräte ...
+* Jochen: das wasser könnte schon aufgeheizter(winter:holzofen,sommer:solarofen) hinten in einem behälter eingefüllt werden und dann über den ansaugschlauch zufliessen
 ***
