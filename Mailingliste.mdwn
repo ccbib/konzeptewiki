@@ -6,6 +6,6 @@ anmelden und sobald sie angemeldet sind auch selber Mails schreiben.
 Alles Mails auf der Liste werden öffentlich (also auch ohne Anmeldung
 zugänglich) archiviert.
 
-Link zum Anmelden: <http://list.danyx.com/listinfo/konzepte>
+Link zum Anmelden: <http://lambda.verymad.net/listinfo/konzepte>
 
-Link zum Archiv: <http://list.danyx.com/pipermail/konzepte/>
+Link zum Archiv: <http://lambda.verymad.net/pipermail/konzepte/>
