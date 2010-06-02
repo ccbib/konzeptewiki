@@ -3,7 +3,6 @@ This is the SandBox, a page anyone can edit to learn how to use the wiki.
 ----
 
 Here's a paragraph. foo. bar. Some test..
-Too bad, it didn't work.
 
 Here's another one with *emphasised* text.
 
